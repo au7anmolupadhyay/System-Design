@@ -125,12 +125,5 @@ This repository primarily serves as a conceptual blueprint. To implement this sy
     -   Set up databases (RDS, DynamoDB, etc.).
     -   Configure CloudFront.
     -   Implement CI/CD pipelines for deployment.
-5.  **Implement Observability:** Set up logging, monitoring, and alerting using services like CloudWatch, Prometheus, Grafana, etc.
+5.  **Implement Observability:** Set up logging, monitoring, and alerting using services like CloudWatch, Prometheus, Grafana, etc.\
 
-## Contributing
-
-Contributions are welcome! If you have suggestions for improving the design, adding more details, or providing alternative implementations, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
